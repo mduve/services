@@ -1,21 +1,11 @@
 {
-    "markers": [
-        { 
-          "branch": {
-            "name":"charlotte",
-            "lat": 35.277088, 
-            "lng": -80.818720,
-            "zoom": 9,
-            "address": "1710 Starita Rd, Charlotte, NC 28206"
-            }, 
-          "stocks": {
-            "number": 0123455, 
-            "due_date": "09/20/2017 12:04 PM", 
-            "loss_type": "collision", 
-            "status": "Wait Dispatch", 
-            "pickup_location": "Paw Creek", 
-            "zip_code": "28214", 
-            }
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
