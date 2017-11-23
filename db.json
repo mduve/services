@@ -1,6 +1,7 @@
 {  
    "markers":[  
-      {  
+      {
+      	 "id": 1,
          "branch":{  
             "name":"charlotte",
             "lat":35.277088,
@@ -187,6 +188,7 @@
          ]
       },
       {  
+      	 "id": 2,
          "branch":{  
             "name":"'chicago'",
             "lat":41.589395,
@@ -236,7 +238,8 @@
             }
          ]
       },
-      {  
+      {
+      	 "id": 3,  
          "branch":{  
             "name":"'dallas'",
             "lat":32.5783512,
