@@ -1,8 +1,9 @@
 {  
    "markers":[  
       {
-      	 "id": 1,
+      	"id": 1,
          "branch":{  
+            "branchId": 1,
             "name":"charlotte",
             "lat":35.277088,
             "lng":-80.818720,
@@ -11,6 +12,7 @@
          },
          "stocks":[  
             {  
+               "branchId": 1,
                "number":"0123455",
                "due_date":"09/20/2017 12:04 PM",
                "loss_type":"collision",
@@ -45,7 +47,8 @@
                "draggable":false,
                "selectable":false
             },
-            {  
+            { 
+               "branchId": 1, 
                "number":"'0123456'",
                "due_date":"'09/21/2017 4:35 PM'",
                "loss_type":"'water'",
@@ -81,6 +84,7 @@
                "selectable":false
             },
             {  
+               "branchId": 1,
                "number":"'0123457'",
                "due_date":"'09/21/2017 4:35 PM'",
                "loss_type":"'water'",
@@ -116,6 +120,7 @@
                "selectable":false
             },
             {  
+               "branchId": 1,
                "number":"'0123458'",
                "due_date":"'09/18/2017 3:33 PM'",
                "loss_type":"'water'",
@@ -151,6 +156,7 @@
                "selectable":false
             },
             {  
+               "branchId": 1,
                "number":"'0123532'",
                "due_date":"'09/17/2017 8:15 PM'",
                "loss_type":"'water'",
@@ -190,6 +196,7 @@
       {  
       	 "id": 2,
          "branch":{  
+            "branchId": 2,
             "name":"'chicago'",
             "lat":41.589395,
             "lng":-87.711607,
@@ -198,6 +205,7 @@
          },
          "stocks":[  
             {  
+               "branchId": 2,
                "number":"'0123458'",
                "due_date":"'09/20/2017 12:04 PM'",
                "loss_type":"'theft'",
@@ -223,6 +231,7 @@
                "selectable":false
             },
             {  
+               "branchId": 2,
                "number":"'0123459'",
                "lat":41.792706,
                "lng":-87.975795,
@@ -230,6 +239,7 @@
                "selectable":false
             },
             {  
+               "branchId": 2,
                "number":"'0123460'",
                "lat":41.731548,
                "lng":-87.676077,
@@ -239,8 +249,9 @@
          ]
       },
       {
-      	 "id": 3,  
+      	"id": 3,  
          "branch":{  
+            "branchId": 3,
             "name":"'dallas'",
             "lat":32.5783512,
             "lng":-96.6718283,
@@ -249,6 +260,7 @@
          },
          "stocks":[  
             {  
+               "branchId": 3,
                "number":"'0123461'",
                "lat":32.837662,
                "lng":-96.853799,
@@ -256,6 +268,7 @@
                "selectable":false
             },
             {  
+               "branchId": 3,
                "number":"'0123462'",
                "lat":32.923006,
                "lng":-96.774148,
@@ -263,6 +276,7 @@
                "selectable":false
             },
             {  
+               "branchId": 3,
                "number":"'0123463'",
                "lat":32.761475,
                "lng":-96.855172,
