@@ -8,16 +8,16 @@
   },
   {
     "id": 2,
-    "number":"'0123456'",
-    "due_date":"'09/21/2017 4:35 PM'",
-    "loss_type":"'water'",
-    "status":"'Wait Dispatch'"
+    "number":"0123456",
+    "due_date":"09/21/2017 4:35 PM",
+    "loss_type":"water",
+    "status":"Wait Dispatch"
   },
   {
     "id": 3,
-    "number":"'0123457'",
-    "due_date":"'09/21/2017 4:35 PM'",
-    "loss_type":"'water'",
-    "status":"'Wait Dispatch'"
+    "number":"0123457",
+    "due_date":"09/21/2017 4:35 PM",
+    "loss_type":"water",
+    "status":"Wait Dispatch"
   }
 ]
