@@ -1,20 +1,20 @@
 [  
    {  
-      "id":1,
+      "id":"1",
       "number":"0123455",
       "due_date":"09/20/2017 12:04 PM",
       "loss_type":"collision",
       "status":"Wait Dispatch"
    },
    {  
-      "id":2,
+      "id":"2",
       "number":"0123456",
       "due_date":"09/21/2017 4:35 PM",
       "loss_type":"water",
       "status":"Wait Dispatch"
    },
    {  
-      "id":3,
+      "id":"3",
       "number":"0123457",
       "due_date":"09/21/2017 4:35 PM",
       "loss_type":"water",
