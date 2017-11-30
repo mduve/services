@@ -181,13 +181,6 @@
    },
    {
       "id":2,
-      "branch":{  
-         "name":"'chicago'",
-         "lat":41.589395,
-         "lng":-87.711607,
-         "zoom":8,
-         "address":"'16425 Crawford Ave, Markham, IL 60428'"
-      },
       "stocks":[
          {
             "number":"'0123458'",
