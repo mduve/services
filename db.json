@@ -1,5 +1,5 @@
-[  
-   {  
+[
+   {
       "id":1,
       "branch":{  
          "name":"charlotte",
@@ -8,8 +8,8 @@
          "zoom":9,
          "address":"1710 Starita Rd, Charlotte, NC 28206"
       },
-      "stocks":[  
-         {  
+      "stocks":[
+         {
             "number":"0123455",
             "due_date":"09/20/2017 12:04 PM",
             "loss_type":"collision",
@@ -44,7 +44,7 @@
             "draggable":false,
             "selectable":false
          },
-         {  
+         {
             "number":"'0123456'",
             "due_date":"'09/21/2017 4:35 PM'",
             "loss_type":"'water'",
@@ -79,7 +79,7 @@
             "draggable":false,
             "selectable":false
          },
-         {  
+         {
             "number":"'0123457'",
             "due_date":"'09/21/2017 4:35 PM'",
             "loss_type":"'water'",
@@ -114,7 +114,7 @@
             "draggable":false,
             "selectable":false
          },
-         {  
+         {
             "number":"'0123458'",
             "due_date":"'09/18/2017 3:33 PM'",
             "loss_type":"'water'",
@@ -149,7 +149,7 @@
             "draggable":false,
             "selectable":false
          },
-         {  
+         {
             "number":"'0123532'",
             "due_date":"'09/17/2017 8:15 PM'",
             "loss_type":"'water'",
@@ -186,7 +186,7 @@
          }
       ]
    },
-   {  
+   {
       "id":2,
       "branch":{  
          "name":"'chicago'",
@@ -195,8 +195,8 @@
          "zoom":8,
          "address":"'16425 Crawford Ave, Markham, IL 60428'"
       },
-      "stocks":[  
-         {  
+      "stocks":[
+         {
             "number":"'0123458'",
             "due_date":"'09/20/2017 12:04 PM'",
             "loss_type":"'theft'",
@@ -221,14 +221,14 @@
             "draggable":false,
             "selectable":false
          },
-         {  
+         {
             "number":"'0123459'",
             "lat":41.792706,
             "lng":-87.975795,
             "draggable":false,
             "selectable":false
          },
-         {  
+         {
             "number":"'0123460'",
             "lat":41.731548,
             "lng":-87.676077,
