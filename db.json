@@ -1,16 +1,16 @@
-[
+[  
    {  
-      "id": 1,
-      "branch":{
-            "name":"charlotte",
-            "lat":35.277088,
-            "lng":-80.818720,
-            "zoom":9,
-            "address":"1710 Starita Rd, Charlotte, NC 28206"
+      "id":1,
+      "branch":{  
+         "name":"charlotte",
+         "lat":35.277088,
+         "lng":-80.818720,
+         "zoom":9,
+         "address":"1710 Starita Rd, Charlotte, NC 28206"
       },
       "stocks":[  
          {  
-            "branchId": 1,
+            "branchId":1,
             "number":"0123455",
             "due_date":"09/20/2017 12:04 PM",
             "loss_type":"collision",
@@ -45,8 +45,8 @@
             "draggable":false,
             "selectable":false
          },
-         { 
-            "branchId": 1, 
+         {  
+            "branchId":1,
             "number":"'0123456'",
             "due_date":"'09/21/2017 4:35 PM'",
             "loss_type":"'water'",
@@ -82,7 +82,7 @@
             "selectable":false
          },
          {  
-            "branchId": 1,
+            "branchId":1,
             "number":"'0123457'",
             "due_date":"'09/21/2017 4:35 PM'",
             "loss_type":"'water'",
@@ -118,7 +118,7 @@
             "selectable":false
          },
          {  
-            "branchId": 1,
+            "branchId":1,
             "number":"'0123458'",
             "due_date":"'09/18/2017 3:33 PM'",
             "loss_type":"'water'",
@@ -154,7 +154,7 @@
             "selectable":false
          },
          {  
-            "branchId": 1,
+            "branchId":1,
             "number":"'0123532'",
             "due_date":"'09/17/2017 8:15 PM'",
             "loss_type":"'water'",
