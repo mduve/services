@@ -1,13 +1,6 @@
 [
    {
       "id":1,
-      "branch":{  
-         "name":"charlotte",
-         "lat":35.277088,
-         "lng":-80.818720,
-         "zoom":9,
-         "address":"1710 Starita Rd, Charlotte, NC 28206"
-      },
       "stocks":[
          {
             "number":"0123455",
