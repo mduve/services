@@ -1,5 +1,6 @@
 {
    "branches": [{
+         "id": 1,
          "branchId": 1,
          "name": "charlotte",
          "lat": 35.277088,
@@ -8,6 +9,7 @@
          "address": "1710 Starita Rd, Charlotte, NC 28206"
       },
       {
+         "id": 2,
          "branchId": 2,
          "name": "chicago",
          "lat": 41.589395,
@@ -16,6 +18,7 @@
          "address": "16425 Crawford Ave, Markham, IL 60428"
       },
       {
+         "id": 3,
          "branchId": 3,
          "name": "dallas",
          "lat": 32.5783512,
