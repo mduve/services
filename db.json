@@ -62,7 +62,7 @@
          "lat": 35.268542,
          "lng": -80.949685,
          "draggable": false,
-         "selectable": false
+         "selectable": true
       },
       {
          "branchId": 1,
@@ -236,7 +236,7 @@
          "lat": 41.912387,
          "lng": -87.740211,
          "draggable": false,
-         "selectable": false
+         "selectable": true
       },
       {
          "branchId": 2,
@@ -260,7 +260,7 @@
          "lat": 32.837662,
          "lng": -96.853799,
          "draggable": false,
-         "selectable": false
+         "selectable": true
       },
       {
          "branchId": 3,
