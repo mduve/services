@@ -67,7 +67,7 @@
       {
          "branchId": 1,
          "id": 2,
-         "number": "'0123456'",
+         "number": "0123456",
          "due_date": "'09/21/2017 4:35 PM'",
          "loss_type": "'water'",
          "status": "'Wait Dispatch'",
@@ -104,7 +104,7 @@
       {
          "branchId": 1,
          "id": 3,
-         "number": "'0123457'",
+         "number": "0123457",
          "due_date": "'09/21/2017 4:35 PM'",
          "loss_type": "'water'",
          "status": "'Wait Dispatch'",
@@ -141,7 +141,7 @@
       {
          "branchId": 1,
          "id": 4,
-         "number": "'0123458'",
+         "number": "0123458",
          "due_date": "'09/18/2017 3:33 PM'",
          "loss_type": "'water'",
          "status": "'Wait Dispatch'",
@@ -178,7 +178,7 @@
       {
          "branchId": 1,
          "id": 5,
-         "number": "'0123532'",
+         "number": "0123532",
          "due_date": "'09/17/2017 8:15 PM'",
          "loss_type": "'water'",
          "status": "'Wait Dispatch'",
@@ -214,7 +214,7 @@
       },
       {
          "branchId": 2,
-         "number": "'0123458'",
+         "number": "0123458",
          "due_date": "'09/20/2017 12:04 PM'",
          "loss_type": "'theft'",
          "status": "'Wait Off Site Tow Dispatch'",
@@ -240,7 +240,7 @@
       },
       {
          "branchId": 2,
-         "number": "'0123459'",
+         "number": "0123459",
          "lat": 41.792706,
          "lng": -87.975795,
          "draggable": false,
@@ -248,7 +248,7 @@
       },
       {
          "branchId": 2,
-         "number": "'0123460'",
+         "number": "0123460",
          "lat": 41.731548,
          "lng": -87.676077,
          "draggable": false,
@@ -256,7 +256,7 @@
       },
       {
          "branchId": 3,
-         "number": "'0123461'",
+         "number": "0123461",
          "lat": 32.837662,
          "lng": -96.853799,
          "draggable": false,
@@ -264,7 +264,7 @@
       },
       {
          "branchId": 3,
-         "number": "'0123462'",
+         "number": "0123462",
          "lat": 32.923006,
          "lng": -96.774148,
          "draggable": false,
@@ -272,7 +272,7 @@
       },
       {
          "branchId": 3,
-         "number": "'0123463'",
+         "number": "0123463",
          "lat": 32.761475,
          "lng": -96.855172,
          "draggable": false,
