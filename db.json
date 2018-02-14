@@ -1,8 +1,5 @@
 {
-   "total_count": 9935,
-   "incomplete_results": false,
-   "branches": [
-      {
+   "branches": [{
          "id": 1,
          "branchId": 1,
          "name": "charlotte",
@@ -30,8 +27,7 @@
          "address": "204 Mars Rd, Wilmer, TX 75172"
       }
    ],
-   "stocks": [
-      {
+   "stocks": [{
          "branchId": 1,
          "id": 1,
          "number": "0123455",
