@@ -7,18 +7,6 @@
       "created_at": "2018-02-14T00:57:10Z"
     },
     {
-      "number": 9937,
-      "title": "fixbadge: AoT and server-side rendering errors",
-      "state": "open",
-      "created_at": "2018-02-13T21:02:43Z"
-    },
-    {
-      "number": 9938,
-      "title": "docsselect: Change selects openedChange output comment",
-      "state": "open",
-      "created_at": "2018-02-13T21:00:58Z"
-    },
-    {
       "number": 9936,
       "title": "chore: 6.0.0-beta.1 changelog",
       "state": "open",
