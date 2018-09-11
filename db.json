@@ -30,7 +30,7 @@
    "stocks": [{
          "branchId": 1,
          "id": 1,
-         "number": "0123454",
+         "number": "0123455",
          "due_date": "2017-09-20T00:57:10Z",
          "loss_type": "collision",
          "status": "Wait Dispatch",
